@@ -4,5 +4,7 @@ Allow to do:
   - backup
   - restore
   - Install zip
+  - Reboot (recovery, system,)
+  - Poweroff
 
 /!\ all files are on your phone /!\
